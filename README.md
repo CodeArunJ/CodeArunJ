@@ -6,6 +6,6 @@
 ## About Me
 I am J. Arun, pursuing my B.Tech at Malla Reddy University in my third year. I am deeply interested in the fields of software development and cybersecurity.
 ## Contact
-- **Email:** (arun.jelsinge2003@gmail.com)
+- **Email:** (jelsingearun.2004@gmail.com)
 - **LinkedIn:** (www.linkedin.com/in/arun-jelsinge-244949290)
 - **GitHub:** ()

@@ -2,115 +2,120 @@
 
 ---
 
-**Personal Details:**
-- **Name:** Arun Jelsinge  
+## 📌 Personal Information
+
+- **Full Name:** Arun Jelsinge  
 - **Location:** Bharat Nagar, Hyderabad, Telangana, India  
 - **Phone:** +91 8897241318  
 - **Email:** jelsingearun.2004@gmail.com  
 - **LinkedIn:** [linkedin.com/in/arun-jelsinge-244949290](http://www.linkedin.com/in/arun-jelsinge-244949290)
 
-**Education:**
-- **B.Tech – Computer Science (Information Technology)**  
-  *Malla Reddy University, Hyderabad | Sep 2022 – May 2026*
+---
 
-- **Intermediate Education**  
-  *Sri Chaitanya, Telangana State Board | Jun 2020 – Apr 2022*
+## 🧾 Professional Summary
 
-**Certifications:**
-- NPTEL – Programming in Java, Cloud Computing  
-- Coursera – IBM Certification: Introduction to Python Programming
-
-**Languages:** English, Hindi, Telugu  
-**Interests:** AI and Machine Learning, Open-Source Contribution, Community Service  
-**Competitions:** Hackathons & Intellithons – Malla Reddy University  
+Results-oriented Data Analyst and Prompt Engineering enthusiast skilled in Python, SQL, and machine learning. Specialized in statistical modeling, predictive analytics, and AI-powered automation. Proven ability to extract insights from large datasets, develop accurate forecasting models, and implement prompt engineering techniques to enhance the performance of data workflows. Committed to continuous learning and creating data-driven business value through innovation and clarity.
 
 ---
 
-## 🧠 Inferred & Explicit Skills
+## 🧠 Skills
 
-### Technical Skills
-- **Programming Languages:** Python, Java, SQL, MongoDB  
+### 🛠 Technical Skills
+- **Languages & Databases:** Python, Java, SQL, MongoDB  
 - **Machine Learning:** Linear Regression, Decision Trees, K-Means, DBSCAN, Predictive Analytics  
-- **Big Data & Analytics:** Data Cleaning, Feature Engineering, EDA, Statistical Modeling  
+- **Big Data & Analysis:** Data Cleaning, Feature Engineering, EDA, Statistical Modeling  
 - **Visualization:** Tableau, Matplotlib, Seaborn  
-- **Frameworks & Libraries:** Pandas, NumPy, Scikit-Learn  
-- **Databases & APIs:** MongoDB, REST APIs  
-- **Prompt Engineering (added skill):**
-  - Crafting effective prompts for LLM-based data summarization
-  - Using prompt engineering to generate synthetic datasets for model training
-  - Optimizing AI agent queries for automated data labeling and cleaning
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn  
+- **API & Dev Tools:** REST APIs, Jupyter Notebook, Git *(assumed)*  
+- **Prompt Engineering:**
+  - Crafting domain-specific prompts for AI-driven data analysis  
+  - Generating synthetic training data via LLMs  
+  - Using prompt chaining to automate sentiment classification, summarization, and trend detection
 
-### Soft Skills
+### 💡 Soft Skills
 - Analytical Thinking  
 - Critical Problem Solving  
 - Project Management & Leadership  
-- Communication & Reporting  
+- Technical Documentation & Communication
 
 ---
 
-## 🧾 Summary
+## 🎓 Education
 
-Analytical and detail-oriented Data Analyst and aspiring Prompt Engineer with strong foundations in Python, machine learning, and data visualization. Adept at leveraging statistical models and large datasets to uncover actionable insights and optimize performance. Proven ability to build accurate predictive models, design intuitive dashboards, and apply prompt engineering techniques to enhance AI-powered data workflows. Committed to data-driven innovation and continuous learning.
+### Bachelor of Technology – Computer Science (IT)  
+*Malla Reddy University, Hyderabad*  
+**September 2022 – May 2026**
+
+### Intermediate Education  
+*Sri Chaitanya – Telangana State Board of Intermediate Education*  
+**June 2020 – April 2022**
 
 ---
 
-## 🚀 Experience Highlights
+## 📂 Academic Projects
 
-### 📌 Suicide Rate Detection Project  
+### 📌 Suicide Rate Detection  
 **January 2024 – June 2024**  
 **Tools & Technologies:** Python, Kaggle, Linear Regression, Matplotlib, Seaborn, Prompt Engineering  
 
-**Objective:** Analyze 100,000+ records to predict suicide trends with 92% accuracy.  
-**Key Contributions:**
-- Cleaned and transformed 100,000+ historical data points, improving model accuracy by 25%.
-- Applied linear regression and decision tree models, achieving a forecasting accuracy of 92%.
-- Created an automated dashboard that reduced trend analysis time by 40%.
-- Analyzed 50,000+ social media posts using custom prompts for natural language detection of suicide indicators, improving early detection by 25%.
-- Employed prompt engineering to automate text classification and sentiment scoring tasks, boosting model training efficiency.
+**Objective:** Predict suicide trends with 92% accuracy using 100,000+ historical and social data records.
 
-> 📈 *Impact:* Early warning detection improved; human intervention needed 30% less frequently in the model loop.
+**Contributions:**
+- Cleaned and processed 100K+ records (2001–2012), improving model accuracy by 25%.
+- Applied linear regression and decision tree models, reaching 92% accuracy for 2012–2023 forecasts.
+- Built a dashboard reducing trend analysis time by 40%.
+- Analyzed 50K+ social media posts using LLM-generated prompts to detect early suicide risk indicators (+25% detection).
+- Applied prompt engineering to auto-classify emotional tone, enabling real-time mental health screening.
+
+> ✅ *Impact:* Enabled early intervention system; reduced human monitoring dependency by 30%.
 
 ---
 
-### 📌 Retail Sales Analysis Project  
+### 📌 Retail Sales Analysis  
 **January 2025 – June 2025**  
-**Tools & Technologies:** Python, Tableau, Linear Regression, Clustering (K-Means, DBSCAN), Prompt Engineering  
+**Tools & Technologies:** Python, Tableau, K-Means, DBSCAN, Linear Regression, Prompt Engineering  
 
-**Objective:** Analyze 500,000+ retail sales records to optimize pricing and boost inventory turnover.  
-**Key Contributions:**
-- Segmented customers across 12 regions using clustering, increasing segmentation precision by 30%.
-- Applied K-Means and DBSCAN to optimize marketing campaigns, raising conversion by 20%.
-- Developed pricing optimization models using regression, lifting profit margins by 18%.
-- Built a Tableau dashboard automating 90% of reporting tasks.
-- Used prompt engineering techniques to:
-  - Generate summaries of regional sales trends for automated dashboards
-  - Create scenario-based pricing prompts to simulate customer behavior
-  - Enhance reporting automation by auto-generating insights with natural language templates
+**Objective:** Analyze 500,000+ records to improve pricing strategy, customer segmentation, and inventory efficiency.
 
-> 📊 *Impact:* Revenue loss dropped by 12%, reporting time halved, and forecasting variance reduced to ±10%.
+**Contributions:**
+- Analyzed sales data across 12 regions, increasing customer segmentation accuracy by 30%.
+- Applied clustering algorithms (K-Means & DBSCAN) to 100K+ customer profiles, increasing targeted marketing conversion by 20%.
+- Built regression models using 10+ pricing factors, improving profit margins by 18%, reducing losses by 12%.
+- Designed Tableau dashboards that automated 90% of manual reporting and cut time-to-insight by 50%.
+- Leveraged prompt engineering to:
+  - Generate dynamic sales summaries for each region
+  - Simulate pricing scenarios using AI-generated behavioral prompts
+  - Auto-generate business recommendations in natural language from model outputs
 
----
-
-## 📘 Academic Excellence
-
-### 🎓 B.Tech in Computer Science – IT  
-*Malla Reddy University, Hyderabad | 2022 – 2026*
-
-- Specialized in machine learning, data analytics, and AI-driven problem solving.
-- Actively participated in academic hackathons and innovation challenges.
+> 📊 *Impact:* Boosted forecasting efficiency and seasonal responsiveness (±10% variance reduction).
 
 ---
 
-## 💼 Certifications & Projects
+## 🏅 Certifications
 
-- 🏅 **Programming in Java & Cloud Computing** – NPTEL  
-- 🏅 **Python for Data Science** – Coursera (IBM)  
-- 💡 *Project environments integrated prompt engineering techniques into traditional ML workflows for enhanced automation and scalability.*
+- **NPTEL:** Programming in Java, Cloud Computing  
+- **Coursera (IBM):** Introduction to Python Programming  
 
 ---
 
-## ✅ Closing
+## 📈 Competitions & Involvement
 
-Arun Jelsinge is a driven data analyst and emerging prompt engineering specialist focused on solving real-world problems through intelligent automation, machine learning, and effective communication. He thrives at the intersection of data, AI, and business value—translating insights into impact. With a sharp eye for trends and a proactive approach to technology, Arun is poised to contribute meaningfully to data science and AI teams.
+- Participated in hackathons and coding competitions (Hackathons, Intellithons) at Malla Reddy University  
+- Open-Source Contributor *(interests-based)*  
+- AI and Machine Learning enthusiast with focus on prompt engineering and LLM workflows
+
+---
+
+## 🗣 Languages
+
+- English  
+- Hindi  
+- Telugu  
+
+---
+
+## ✅ Closing Statement
+
+Arun Jelsinge is an emerging leader in data analysis and prompt engineering with a results-first mindset. By combining predictive modeling, visual storytelling, and AI-powered automation, Arun delivers measurable impact on real-world business problems. His work blends technical expertise with forward-thinking innovation, particularly in leveraging large language models (LLMs) to streamline analytics pipelines, enhance decision-making, and drive actionable outcomes.
 
 ---

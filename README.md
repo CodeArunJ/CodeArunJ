@@ -27,13 +27,8 @@
 - Data Analytics: Exploratory Data Analysis (EDA), Statistical modeling
 - Tools: Jupyter Notebook, Excel, Kaggle datasets
 - Communication: Report writing, Insight presentation
-- Version Control: *Assumed* Git/GitHub usage for project versioning
+- Version Control: Git/GitHub usage for project versioning
 
-**Assumptions (clearly marked):**
-- Familiarity with data visualization libraries (e.g., Matplotlib, Seaborn) *(assumed based on Python and analytics background)*
-- Participation in data science competitions on Kaggle *(assumed from mention of Kaggle dataset)*
-- Use of Git/GitHub for version control *(standard practice; assumed for portfolio context)*
-- Experience level: Entry to early-mid career *(based on project scope and resume tone)*
 
 ---
 
@@ -66,7 +61,6 @@ Motivated and analytical Data Analyst with a foundation in Python, SQL, and mach
   - Visualized key data trends using plots and heatmaps *(assumed)*.
   - Delivered a reproducible analysis in a Jupyter Notebook with clear commentary.
 
-> 📈 *Impact:* Improved prediction accuracy and enhanced understanding of feature relationships, simulating real-world data science workflows.
 
 ### 📌 Data Exploration and Statistical Modeling
 - **Objective:** Performed end-to-end data analysis to identify patterns and insights.
@@ -81,19 +75,5 @@ Motivated and analytical Data Analyst with a foundation in Python, SQL, and mach
 ## ✅ Closing
 
 Arun Jelsinge combines technical acumen with an analytical mindset to drive data-informed decision-making. With foundational expertise in predictive modeling and a passion for continuous learning, Arun is prepared to contribute effectively to data-centric roles and collaborative environments. This portfolio reflects a commitment to precision, impact, and professional growth.
-
----
-
-## 📌 Next Steps
-
-1. **Add Featured GitHub Projects:**  
-   Populate repository with polished Jupyter Notebooks for each project, including README.md files with:
-   - Project overview
-   - Technologies used
-   - Key results and visuals
-   - Instructions for replication
-
-2. **Integrate GitHub Actions or Binder Links:**  
-   Enhance interactivity by enabling live notebook previews via Binder or Streamlit for easier recruiter and peer access.
 
 ---

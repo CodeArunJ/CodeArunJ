@@ -2,8 +2,6 @@
 
 ---
 
-## 📄 Extracted Resume Data
-
 **Personal Details:**
 - **Name:** Arun Jelsinge  
 - **Location:** Bharat Nagar, Hyderabad, Telangana, India  
